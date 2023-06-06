@@ -4,6 +4,6 @@
 
 
 fn main() {
-    let x: i32 = 5;
+    let x: i8 = 5;
     println!("x has the value {}", x);
 }

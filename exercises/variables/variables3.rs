@@ -3,6 +3,6 @@
 
 
 fn main() {
-    let x: i32 = 0;
+    let x: i8 = 0;
     println!("Number {}", x);
 }
